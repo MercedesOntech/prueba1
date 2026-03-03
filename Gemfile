@@ -6,7 +6,7 @@ source "https://rubygems.org"
 gem "rails", "~> 8.1.2"
 
 # Database
-gem "sqlite3", "~> 1.5"
+gem "sqlite3", "~> 2.9"
 
 # Web server
 gem "puma", ">= 5.0"
